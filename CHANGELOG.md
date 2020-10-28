@@ -14,6 +14,11 @@ Prefix the change with one of these keywords:
 - _Fixed_: for any bug fixes.
 - _Security_: in case of vulnerabilities.
 
+## Unreleased
+
+- Changed: **BREAKING** the `Alert` levels are updated (see [Alert variant](http://localhost:6006/?path=/docs/ui-alert--variants) for its usage)
+- Added: new `Alert` level `warning` is added (yellow variant)
+
 ## [0.25.2]
 
 - Added: `initialTab` prop to `Tabs` component
